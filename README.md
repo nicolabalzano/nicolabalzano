@@ -60,6 +60,19 @@
 
 <h3 align="center">💻 Coding | ⚛️ Post-Quantum Cryptography | 🛡️ Cybersecurity & CTF | 🖨️ 3D Printing & DIY Hardware</h3>
 
+I'm a tech enthusiast with a strong passion for security, advanced cryptography, and the maker culture. Whether I'm diving into post-quantum algorithms, capturing flags in cybersecurity challenges, or tinkering with DIY hardware and 3D printers, I love exploring how things work and making them better (and more secure!).
+
+## 🛠️ What I'm interested in
+*   **Security & Crypto:** Exploring the future of data protection with Post-Quantum Cryptography and sharpening my offensive/defensive skills through CTFs.
+*   **Software Development:** Writing clean and efficient code to solve complex problems.
+*   **Hardware & Making:** Bringing digital ideas into the physical world through 3D printing and DIY electronics.
+
+## 📫 Let's Connect!
+I'm always open to discussing tech, cybersecurity, or your latest 3D printing project. You can find me here:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicola-balzano-1668a0272/)
+[![MakerWorld](https://img.shields.io/badge/MakerWorld-My_Models-orange?style=for-the-badge&logo=bambulab)](https://makerworld.com/it/@nicolabalzano)
+
 ###
 
 <div align="center">
